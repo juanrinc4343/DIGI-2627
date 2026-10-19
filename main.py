@@ -6,3 +6,5 @@ wa = 4
 ff = 5
 
 print(wa + ff)
+
+print(wa + 5)
