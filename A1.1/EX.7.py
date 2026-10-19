@@ -3,7 +3,6 @@
 
 paraula = "programació"
 num = ""
-lletres_soltes = ""
 
 
 for num in range(0, len(paraula)):
